@@ -1,0 +1,14 @@
+.nav-tabs{    
+    padding-bottom: 8px;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link{
+    background-color: #03438c;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.nav-item :hover {
+  cursor: pointer;
+  outline: none; 
+}
